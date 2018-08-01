@@ -1,5 +1,5 @@
 [![EHEandMe](https://www.eheandme.com/images/logo/logo-eheme.png)](https://www.eheandme.com)
-[Trunk-dev](http://calbuild01/jenkins/job/Development-Trunk-Step-1-Compile/badge)
+[![Build Status](http://calbuild01/jenkins/buildStatus/icon?job=Development-Trunk-Step-1-Compile)](http://calbuild01/jenkins/job/Development-Trunk-Step-1-Compile/)
 
 # docker02
 git demo
